@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Willian e este é o meu repositório, seja bem vindo(a).
 
-- 🌱 Estudando atualmente: Reactjs na <a href="https://b7web.com.br/fullstack/">@b7web</a>
+- 🌱 Estudando atualmente: React.js na <a href="https://b7web.com.br/fullstack/">@b7web</a>
 - 📫 Email para contato: Willianduartedesouza04@gmail.com
 
 ##
